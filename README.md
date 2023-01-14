@@ -8,6 +8,8 @@ Un blog para el curso de Git y Github de Platzi
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Master 2
