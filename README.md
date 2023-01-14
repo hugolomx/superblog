@@ -6,6 +6,7 @@ Un blog para el curso de Git y Github de Platzi
 >
 > - Vamos por todo
 > - Creado por su humilde servidor
+> - Incluye una gran variedad de cursos
 
 Experimento 1
 
